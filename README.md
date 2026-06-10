@@ -1,105 +1,71 @@
-# 💰 EarningHub - Social Earning Platform
 
-A modern, secure social earning platform where users can earn money through tasks, referrals, and various activities.
+## Technology Stack
 
-## Features
+- **Frontend:** HTML5, CSS3, Vanilla JavaScript
+- **Storage:** Browser LocalStorage
+- **Styling:** Custom CSS with Dark Mode
+- **Responsive:** Mobile-first design
 
-### 👥 User Management
-- **User Registration & Authentication**
-  - Secure username and password setup
-  - Email verification
-  - Profile management
+## Features Implementation
 
-- **Account Security**
-  - Password encryption
-  - VPN protection (VPN users blocked)
-  - Secure session management
-  - Account deletion option
+### Authentication
+- User registration with validation
+- Secure login system
+- Password management
+- Session handling
 
-### 💵 Earning System
-- **Task Completion**: Earn money by completing various tasks
-  - Surveys: ₦500
-  - Video watching: ₦300
-  - App downloads: ₦1,000
-  - Game playing: ₦200
-  - Special offers: ₦2,000
-  - Social sharing: ₦400
-
-- **Referral Program**
-  - Earn ₦100 per successful referral
-  - Unique referral links
-  - Track referral earnings
-  - View referral history
-
-- **Activation Fee**
-  - Minimum activation: ₦1,000 per person
-  - One-time payment required
-  - Support both OPay and SmartCash
-
-### 💳 Payment Methods
-
-**OPay Account:**
-- Account Number: 9075885346
-- Account Name: TEMITAYO MATTHEW ABRAHAM
-
-**SmartCash Account:**
-- Account Number: 9046166102
-- Account Name: TEMITAYO ABRAHAM
-
-### 📊 Dashboard Features
-- Real-time earnings display
-- Active tasks counter
-- Referral statistics
-- Withdrawal history
+### Earning Mechanisms
+- Task completion tracking
+- Referral link generation
 - Balance management
+- Withdrawal processing
 
-### 🎨 UI/UX Features
-- **Blue & White Color Scheme**
-- **Dark Mode Support**
-  - Easy toggle in settings
-  - Persistent preference
-  - Eye-friendly dark theme
+### User Interface
+- Clean, intuitive design
+- Easy navigation
+- Real-time updates
+- Mobile responsive
 
-- **Responsive Design**
-  - Mobile-friendly interface
-  - Tablet support
-  - Desktop optimization
+## Rules & Restrictions
 
-### 🔐 Security Features
-- VPN detection and blocking
-- Secure password storage
-- Session management
-- Activity logging
-- Fraud prevention
+1. **VPN Not Allowed**
+   - Platform detects and blocks VPN users
+   - Ensures fair gameplay
 
-### 💸 Withdrawal System
-- Multiple payment methods
-- Real-time balance tracking
-- 24-hour processing
-- Withdrawal history
-- Amount validation
+2. **One Account Per Person**
+   - Username must be unique
+   - Email verification required
 
-## Admin Login
+3. **Activation Required**
+   - ₦1,000 minimum activation fee
+   - Must pay before accessing features
 
-**Username:** nariamat  
-**Password:** temitayo5sA@@
+4. **Task Limits**
+   - Each task can only be completed once
+   - New tasks added regularly
 
-## Getting Started
+5. **Withdrawal Rules**
+   - Minimum withdrawal amount: ₦100
+   - 24-hour processing time
+   - Only 2 payment methods available
 
-### 1. Access the Platform
-- Open `index.html` in your web browser
-- Or deploy to GitHub Pages for online access
+## Support & Contact
 
-### 2. User Registration
-1. Click "Register" button
-2. Enter username, email, phone, and password
-3. Accept terms and conditions
-4. Complete activation payment (₦1,000)
-5. Login with your credentials
+For issues or inquiries:
+- **Admin Username:** nariamat
+- **OPay:** 9075885346 (TEMITAYO MATTHEW ABRAHAM)
+- **SmartCash:** 9046166102 (TEMITAYO ABRAHAM)
 
-### 3. Start Earning
-1. **Complete Tasks**: Visit Tasks page and complete available tasks
-2. **Referrals**: Share your referral link with friends
-3. **Withdraw**: Withdraw your earnings via OPay or SmartCash
+## Disclaimer
 
-## File Structure
+This platform is designed for legitimate earning activities. Users must follow all terms and conditions. Fraudulent activities are strictly prohibited.
+
+## License
+
+All rights reserved © 2025 EarningHub
+
+---
+
+**Version:** 1.0.0  
+**Last Updated:** 2025  
+**Status:** Active
